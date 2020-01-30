@@ -1,3 +1,0 @@
-Holi 
-?jabber.capitalize
-?jabber.title
